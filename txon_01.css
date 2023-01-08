@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.foodmunch-logo {
+    height: 60px;
+    width: 70px;
+}
+
+#navbar-option {
+    color: red;
+    font-family: "bree Serif";
+    font-size: 15px;
+}
+
+.baner-section-bg-container {
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.3YynPAZAIQH7QK4NSRERogHaFj&pid=Api&P=0");
+
+    height: 100vh;
+    background-size: cover;
+}
+
+.baner-heading {
+    color: red;
+    font-family: "bree Serif";
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.baner-caption {
+    color: lightgreen;
+    font-family: "bree serif";
+    font-size: 20px;
+}
+
+.baner-button {
+    color: white;
+    background-color: #d0b200;
+    border-radius: 8px;
+    border-width: 0px;
+    height: 40px;
+    width: 120px;
+    margin-right: 15px;
+}
+
+.baner-transparent-button {
+    color: #d0b200;
+    background-color: transparent;
+    border-color: #d0b200;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 8px;
+    height: 40px;
+    width: 120px;
+}
+
+.wcu-bg-container {
+    background-color: lightblue;
+}
+
+.wcu-heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.wcu-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.wcu-card {
+    background-color: white;
+    border-color: #e5eaf4;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    padding: 10px;
+}
+
+.wcu-card-img {
+    height: 200px;
+    width: 230px;
+}
+
+.wcu-card-title {
+    color: black;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.wcu-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 20;
+}
+
+.offers {
+    color: black;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.explore-menu-bg-container {
+    background-color: lightblue;
+}
+
+.explore-menu-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.explore-menu-card-container {
+    background-color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    padding: 10px;
+}
+
+.explore-menu-card-image {
+    border-radius: 15px;
+}
+
+.explore-menu-description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.explore-menu-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.healthy-food-bg-container {
+    background-color: #f9fbfe;
+    padding: 10px;
+}
+
+.healthy-food-title {
+    color: #183b56;
+    font-family: "Bree Serif";
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.healthy-food-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+
+.delivery-bg-container {
+    background-color: #f9fbfe;
+    padding: 10px;
+}
+
+.delivery-title {
+    color: black;
+    font-family: "bree serif";
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.delivery-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.payment-card-img {
+    height: 50px;
+    width: 50px;
+}
+
+
+.thankyou-bg-contaioner {
+    background-image: radial-gradient(#fff8db, blue);
+    padding: 15px;
+    text-align: center;
+}
+
+.thankyou-tytle {
+    color: black;
+    font-family: "bree serif";
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.thankyou-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.giftvoucher {
+    color: red;
+    font-family: "bree serif";
+    font-size: 25px;
+}
+
+.followus-bg-container {
+    background-image: radial-gradient(#fff8db, green);
+    text-align: center;
+}
+
+.followus-heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.followus-icon-container {
+    background-color: lightblue;
+    height: 70px;
+    width: 70px;
+    border-radius: 40px;
+    padding-top: 17px;
+    padding-bottom: 12px;
+    padding-left: 13px;
+    padding-right: 12px;
+    margin: 30px;
+}
+
+.followus-icon {
+    color: red;
+    font-size: 35px;
+}
+
+
+.lust-bg-container {
+    background-image: linear-gradient(to left, blue, black, yellow, purple, pink, violet, red, green, white, orange);
+    text-align: center;
+}
+
+.lust-fm-image {
+    height: 100px;
+    width: 100px;
+}
+
+.lust-text {
+    color: #959ead;
+    font-family: "bree Serif";
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.lust-addresh {
+    color: #959ead;
+    font-family: "bree Serif";
+    font-size: 20px;
+}
